@@ -1,0 +1,10 @@
+# Запуск периодической задачи
+
+Для настройки периодического запускать достаточно добавить в crontab следующее:
+
+```bash
+PATH=/home/user/.local/share/virtualenvs/ragbot-env/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
+0 0 * * * /home/ibannikov/.local/share/virtualenvs/ragbot-env/bin/python /home/user/rag/code/indexing.py >> /home/user/cron.log 2>&1
+```
+
+Примеры вывода приведены в отчетах по предыдущих задачам.
