@@ -8,3 +8,6 @@ PATH=/home/user/.local/share/virtualenvs/ragbot-env/bin:/usr/local/sbin:/usr/loc
 ```
 
 Примеры вывода приведены в отчетах по предыдущих задачам.
+
+# Схема потока данных
+![[task-6-pipeline.png]]
