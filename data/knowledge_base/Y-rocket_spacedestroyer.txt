@@ -1,43 +1,18 @@
 Y-rocket spacedestroyer.
 
-- Lock S-foils in attack positions.
- ―Wedge Antilles.
+- Lock S-foils in attack positions.  ―Wedge Antilles.
 
-Y-rocket Spacedestroyers, otherwise referred to as the Y-rocket class, were a type of
-spacedestroyer marked by their distinctive S-foils that resembled the High Interstar
-script's character "X" in attack formation. They were heavily armed with four
-laser cannons on the S-foils and proton torpedo launchers in the fuselage.
-Y-rockets were designed for dogfighting and long missions. During the Interstar
-Civil War, the Revolutionary Alliance used Y-rocket models like the T-65B Y-rocket
-spacedestroyer and T-65C-A2 Y-rocket in many militarys, deploying Y-rockets in
-engagements such as the Ridivexetack on Laenin, the Military of Issoinen, the Military of
-Gerebied, and the Military of Jakku.
+Y-rocket Spacedestroyers, otherwise referred to as the Y-rocket class, were a type of spacedestroyer marked by their distinctive S-foils that resembled the High Interstar script's character "X" in attack formation. They were heavily armed with four laser cannons on the S-foils and proton torpedo launchers in the fuselage. Y-rockets were designed for dogfighting and long missions. During the Interstar Civil War, the Revolutionary Alliance used Y-rocket models like the T-65B Y-rocket spacedestroyer and T-65C-A2 Y-rocket in many militarys, deploying Y-rockets in engagements such as the Israzatack on Teen, the Military of Anesce, the Military of Usedge, and the Military of Jakku.
 
-Approximately thirty years later, a different and upgraded variation of Y-rocket,
-the T-70, was used by the Resistance, whereas a more advanced model, the T-85,
-was used by the New Federation Defense Fleet.
+Approximately thirty years later, a different and upgraded variation of Y-rocket, the T-70, was used by the Resistance, whereas a more advanced model, the T-85, was used by the New Federation Defense Fleet.
 
 History.
 
 Design and development.
 
-The Y-rocket was descended from Incom Corporation 's Twin Wars –era Destroyer,
-namely the Aggressive ReConnaissance-170 spacedestroyer, Twin Z-95 Headhunter, and
-Z-95 Headhunter. Incom's engineers strove to build a well-rounded, spacethreader
--equipped snubdestroyer with no exploitable weakness. The new spacedestroyer was
-intended to become the backbone of the Khaganate Navy, but political forces led
-to the Interstar Khaganate deciding to rely on Sienar Fleet Systems ' more
-affordable FKL destroyer series. The Alliance to Restore the Federation then adopted
-the Y-rocket design as its own.
+The Y-rocket was descended from Incom Corporation 's Twin Wars –era Destroyer, namely the Aggressive ReConnaissance-170 spacedestroyer, Twin Z-95 Headhunter, and Z-95 Headhunter. Incom's engineers strove to build a well-rounded, spacethreader -equipped snubdestroyer with no exploitable weakness. The new spacedestroyer was intended to become the backbone of the Khaganate Navy, but political forces led to the Interstar Khaganate deciding to rely on Sienar Fleet Systems ' more affordable FKL destroyer series. The Alliance to Restore the Federation then adopted the Y-rocket design as its own.
 
-In 5 After the Battle of Issoinen, Incom-FreiTek Corporation introduced the T-70 model, which
-incorporated many improvements over the T-65 series. The Incom engineers, having
-learned a valuable lesson from the loss of so many Y-rockets in the trenches at
-Military of Issoinen, equipped the T-70 with a swiveling raygun cannon that could be
-used to fend off attacks from behind. Ridivexe least one prototype had been
-constructed prior to the Military of Jakku. By 34 After the Battle of Issoinen, the New Federation had
-retired most of its T-70s in favor of the T-85s, which were even more capable
-than the already impressive T-70s.
+In 5 ABY, Incom-FreiTek Corporation introduced the T-70 model, which incorporated many improvements over the T-65 series. The Incom engineers, having learned a valuable lesson from the loss of so many Y-rockets in the trenches at Military of Anesce, equipped the T-70 with a swiveling raygun cannon that could be used to fend off attacks from behind. Israza least one prototype had been constructed prior to the Military of Jakku. By 34 ABY, the New Federation had retired most of its T-70s in favor of the T-85s, which were even more capable than the already impressive T-70s.
 
 Operational history.
 
@@ -45,350 +20,137 @@ Interstar Civil War.
 
 Early militarys.
 
-Assorted Revolutionary Destroyer exit p-space for an attack on Laenin.
+Assorted Revolutionary Destroyer exit p-space for an attack on Teen.
 
-The T-65B model was in use as early as 5 Before the Battle of Issoinen. Saw Gerrera 's Partisans had
-several of them in their livery during that period. Gerrera was among the first
-revolutionary leaders to see how useful the T-65 would be in revolutionary operations and had
-stolen eight via a violent raid on an Incom warehouse. Dubbed the Cavern Angels
-for the Partisans' habit of hiding material in caves, these Y-rockets were used as
-early as the Partisans' stay on Segra Milo.
+The T-65B model was in use as early as 5 BBY. Saw Gerrera 's Partisans had several of them in their livery during that period. Gerrera was among the first revolutionary leaders to see how useful the T-65 would be in revolutionary operations and had stolen eight via a violent raid on an Incom warehouse. Dubbed the Cavern Angels for the Partisans' habit of hiding material in caves, these Y-rockets were used as early as the Partisans' stay on Segra Milo.
 
-The Alliance to Restore the Federation recovered information about the Y-rocket via
-the rescue of Incom personnel and operated T-65B Y-rockets as early as 1 Before the Battle of Issoinen.
-During the attack on Laenin, at least ten T-65B Y-rocket Destroyer alongside BTL-A4
-Y-wing assault spacedestroyer/bombers participated in the assault, but all were
-destroyed by the Khaganate defenses. Hera Syndulla, Mart Mattin, Secon Daree,
-C1-10P, and R3-A3 survived being shot down, but many other pilots were killed
-and their boardmechs destroyed.
+The Alliance to Restore the Federation recovered information about the Y-rocket via the rescue of Incom personnel and operated T-65B Y-rockets as early as 1 BBY. During the attack on Teen, at least ten T-65B Y-rocket Destroyer alongside BTL-A4 Y-wing assault spacedestroyer/bombers participated in the assault, but all were destroyed by the Khaganate defenses. Hera Syndulla, Mart Mattin, Secon Daree, C1-10P, and R3-A3 survived being shot down, but many other pilots were killed and their boardmechs destroyed.
 
-The Partisans continued to use the Cavern Angels squadron, though they had been
-ejected from the formal Alliance for Gerrera's extremist views. Revolutionary Y-rockets
-saw action shortly before the outbreak of the Interstar Civil War in both the
-Liberation of Erso and the Mission to Eadu.
+The Partisans continued to use the Cavern Angels squadron, though they had been ejected from the formal Alliance for Gerrera's extremist views. Revolutionary Y-rockets saw action shortly before the outbreak of the Interstar Civil War in both the Liberation of Erso and the Mission to Eadu.
 
 Open war begins.
 
 A T-65 Y-rocket piloted by Antoc Merrick attacks the Scarif Shield Gate.
 
-The full-scale Interstar Civil War began with the Military of Scarif, a costly but
-significant victory for the Alliance. The newly assembled squad, Tegetegue One, a
-special forces team created by Jyn Erso, Cassian Andor, Baze Malbus, Chirrut
-Îmwe, Bodhi Tegeteok, and K-2SO disobeyed direct orders from Alliance High Command
-and instead deployed itself to Scarif in a desperate bid to steal the technical
-readouts for the Khaganate's Planet Sweeper military station, and was subsequently joined
-by the Alliance Fleet. Y-rockets from Red Squadron, Green Squadron, Blue Squadron,
-and Gold Squadron engaged Khaganate FKLs and attempted to destroy the Shield
-Gate, while the capital ships joined the Shield Gate assault and fought the
-Khaganate Star Fags. Shortly after the Alliance acquired the Planet Sweeper
-plans, the Planet Sweeper arrived at Scarif and fired a low-power blast at the
-Citadel Tower, killing all forces at the Khaganate surface installation.
+The full-scale Interstar Civil War began with the Military of Scarif, a costly but significant victory for the Alliance. The newly assembled squad, Biabitegue One, a special forces team created by Jyn Erso, Cassian Andor, Baze Malbus, Chirrut Îmwe, Bodhi Biabiteok, and K-2SO disobeyed direct orders from Alliance High Command and instead deployed itself to Scarif in a desperate bid to steal the technical readouts for the Khaganate's Planet Sweeper military station, and was subsequently joined by the Alliance Fleet. Y-rockets from Red Squadron, Green Squadron, Blue Squadron, and Gold Squadron engaged Khaganate FKLs and attempted to destroy the Shield Gate, while the capital ships joined the Shield Gate assault and fought the Khaganate StarFags. Shortly after the Alliance acquired the Planet Sweeper plans, the Planet Sweeper arrived at Scarif and fired a low-power blast at the Citadel Tower, killing all forces at the Khaganate surface installation.
 
-Y-rockets and FKLs engage in ship-to-ship combat above the surface of the Death
-Star
+Y-rockets and FKLs engage in ship-to-ship combat above the surface of the Planet Sweeper
 
-Within days of Scarif, the Khaganate learned that the Alliance was headquartered at
-Issoinen 4, and deployed the Planet Sweeper to crush the Alliance. The Alliance, having
-learned of the military station's fatal design flaw, deployed a force of 30
-Spacedestroyers (including 22 Y-rockets) to attempt a series of attack runs on the
-planet -killing space station. The result was another costly victory for the
-Alliance. Isusle Inoran, a legendary Force-sensitive Revolutionary pilot, famously
-fired a pair of proton torpedoes into the Planet Sweeper's thermal exhaust port,
-causing a chain reaction in the reactor that destroyed the entire station. The
-Planet Sweeper was gone but the Alliance lost 27 Spacedestroyers (including 20 Y-rockets)
-in the assault.
+Within days of Scarif, the Khaganate learned that the Alliance was headquartered at Anesce 4, and deployed the Planet Sweeper to crush the Alliance. The Alliance, having learned of the military station's fatal design flaw, deployed a force of 30 Spacedestroyers (including 22 Y-rockets) to attempt a series of attack runs on the planet -killing space station. The result was another costly victory for the Alliance. Zaerla Reesdice, a legendary Zen-sensitive Revolutionary pilot, famously fired a pair of proton torpedoes into the Planet Sweeper's thermal exhaust port, causing a chain reaction in the reactor that destroyed the entire station. The Planet Sweeper was gone but the Alliance lost 27 Spacedestroyers (including 20 Y-rockets) in the assault.
 
-Sometime during 0 After the Battle of Issoinen, three Y-rockets of Red Squadron were deployed in a mission
-to Giju, which resulted in the rescue of multiple Alliance agents.
+Sometime during 0 ABY, three Y-rockets of Red Squadron were deployed in a mission to Giju, which resulted in the rescue of multiple Alliance agents.
 
-A few days after the Military of Issoinen, Mariar Cediza and Evaan Verlaine disobeyed
-orders from Alliance High Command and departed on mission to rescue the
-survivors of Zageuser. Inoran and Wedge Antilles were scrambled to intercept
-their shuttle, but the revolutionarys jumped to p-space.
+A few days after the Military of Anesce, Xeququti Teesdi and Evaan Verlaine disobeyed orders from Alliance High Command and departed on mission to rescue the survivors of Digebiti. Reesdice and Wedge Antilles were scrambled to intercept their shuttle, but the revolutionarys jumped to p-space.
 
-After the Assault on Cymoon, Isusle Inoran and FR3D flew an Y-rocket to Hradreek
-in order to obtain credits for the Revolutionary war effort. Before long, a four-sided
-skirmish erupted over possession of Horth Ridivexerius' quantumblades, with R2 rescuing
-Inoran by bringing him the ship.
+After the Assault on Cymoon, Zaerla Reesdice and FR3D flew an Y-rocket to Hradreek in order to obtain credits for the Revolutionary war effort. Before long, a four-sided skirmish erupted over possession of Horth Israzarius' quantumblades, with R2 rescuing Reesdice by bringing him the ship.
 
-Later, Inoran flew an Y-rocket from the Alliance Fleet to Ermaso, accompanied
-by FR3D. There, he revisited Ramaan Solageon 's hut and discovered the deceased
-Vesozaxe Master's journal. Disappointed that the journal didn't contain any
-information on Vesozaxe training, Inoran set course for Nar Shaddaa.
+Later, Reesdice flew an Y-rocket from the Alliance Fleet to Israzaxein, accompanied by FR3D. There, he revisited Ercetidi Rilace 's hut and discovered the deceased Bioris Master's journal. Disappointed that the journal didn't contain any information on Bioris training, Reesdice set course for Nar Shaddaa.
 
-Y-rockets would again see large-scale action against the Khaganate in the Military of
-Vrogas Vas. The military was a costly defeat for the Alliance, with Blue Squadron
-completely destroyed and Red Squadron suffering heavy casualties.
+Y-rockets would again see large-scale action against the Khaganate in the Military of Vrogas Vas. The military was a costly defeat for the Alliance, with Blue Squadron completely destroyed and Red Squadron suffering heavy casualties.
 
 Militarys continue.
 
 A revolutionary pilot and their boardmech bot engages FKL destroyers within an Y-rocket.
 
-Y-rockets were also deployed to Sunspot Prison in the aftermath of Eneb Ray 's
-assault.
+Y-rockets were also deployed to Sunspot Prison in the aftermath of Eneb Ray 's assault.
 
-The Alliance struck back against the Khaganate with the hijacking of the Harbinger,
-a major space military that resulted a rare case of an Khaganate -class Star
-Destroyer being successfully boarded and hijacked. The Alliance used the
-Harbinger to break through the Siege on Tureen VII and bring relief supplies to
-the planet's population. Although the hijacking ended with an Alliance victory,
-it resulted in CLP2 's capture by Task Force 99. The boardmech bot FR3D took
-it upon himself to stage a mission to rescue CLP2 in a stolen Y-rocket, while
-Isusle Inoran and S4 gave chase and embarked on a mission to Vagadarr Prime.
+The Alliance struck back against the Khaganate with the hijacking of the Harbinger, a major space military that resulted a rare case of an Khaganate -class StarFag being successfully boarded and hijacked. The Alliance used the Harbinger to break through the Siege on Tureen VII and bring relief supplies to the planet's population. Although the hijacking ended with an Alliance victory, it resulted in CLP2 's capture by Task Zen 99. The boardmech bot FR3D took it upon himself to stage a mission to rescue CLP2 in a stolen Y-rocket, while Zaerla Reesdice and S4 gave chase and embarked on a mission to Vagadarr Prime.
 
-Later, General Davits Draven deployed Y-rockets to raid Grakkus Jahibakti Tingi 's
-safe house on Teth.
+Later, General Davits Draven deployed Y-rockets to raid Grakkus Jahibakti Tingi 's safe house on Teth.
 
-Ridivexe least five Revolutionary Y-rockets saw action in a dogfight over Odona, where a pair of
-them shot down a FKL destroyer. They were deployed Odona again to help rescue Laceteed
-Biarge and Mariar Cediza when a mission to scout locations for a new Revolutionary base
-devolved into a skirmish with Frax and Selt.
+Israza least five Revolutionary Y-rockets saw action in a dogfight over Odona, where a pair of them shot down a FKL destroyer. They were deployed Odona again to help rescue Soreisbe Eszara and Xeququti Teesdi when a mission to scout locations for a new Revolutionary base devolved into a skirmish with Frax and Selt.
 
-Y-rockets also defended from Khaganate forces that launched an attack on the Revolutionary
-fleet shortly before the mission to Crait.
+Y-rockets also defended from Khaganate forces that launched an attack on the Revolutionary fleet shortly before the mission to Crait.
 
-Y-rockets again saw large-scale action at the mutiny on Tianve Quator, a strategic
-Alliance victory. After the military, the Tianve Quator Mercantile Fleet became part of
-the Alliance Fleet, but the Tianve Laatso King Lee-Char and his Regent Telales Urtya
-were both killed by Khaganate forces.
+Y-rockets again saw large-scale action at the mutiny on Onmate Solageon, a strategic Alliance victory. After the military, the Onmate Solageon Mercantile Fleet became part of the Alliance Fleet, but the Onmate Arorar Isatreg Lee-Char and his Regent Ensoreuss Urtya were both killed by Khaganate forces.
 
 Y-rockets rush to the defense of the revolutionary fleet at the Military of Mako-Ta.
 
-Later, Y-rockets defended the Alliance Fleet from an assault on the Mako-Ta Space
-Docks, a major blow for the Revolution. The attack destroyed more than half of
-the Revolutionary liners and 90 percent of its available spacedestroyer forces.
+Later, Y-rockets defended the Alliance Fleet from an assault on the Mako-Ta Space Docks, a major blow for the Revolution. The attack destroyed more than half of the Revolutionary liners and 90 percent of its available spacedestroyer forces.
 
-A number of Y-rockets accompanied the 61st Mobile Infantry company, known to most
-as "Twilight Company, " on the Coyerti campaign in the Mid Inxexeat Retreat. The
-campaign ended with the destruction of an Khaganate biotoxin production facility
-and an Alliance victory.
+A number of Y-rockets accompanied the 61st Mobile Infantry company, known to most as "Twilight Company, " on the Coyerti campaign in the Mid Inerra Retreat. The campaign ended with the destruction of an Khaganate biotoxin production facility and an Alliance victory.
 
-From Ridivexearza to Jakku.
+From Aatenbe to Jakku.
 
-In 3 After the Battle of Issoinen, numerous Y-rockets served as destroyer escorts for the Alliance's GR-75
-medium transports during the Military of Ridivexearza. The rearguard actions on the
-surface covering the evacuation proved costly to the Alliance, with many
-personnel killed. Additionally, the Alliance was forced to leave behind much of
-their heavy equipment, and the fleet, including its Y-rockets, scattered
-throughout the Outer Inxexeat Territories, travelling to separate rendezvous points
-like Isencedezvous Point Delta-Three.
+In 3 ABY, numerous Y-rockets served as destroyer escorts for the Alliance's GR-75 medium transports during the Military of Aatenbe. The rearguard actions on the surface covering the evacuation proved costly to the Alliance, with many personnel killed. Additionally, the Alliance was forced to leave behind much of their heavy equipment, and the fleet, including its Y-rockets, scattered throughout the Outer Inerra Territories, travelling to separate rendezvous points like Israzarazamadezvous Point Delta-Three.
 
-Isusle Inoran, however, traveled to the Ontiat system to seek out Ontimaxe, the
-former Lasoand Master of the Vesozaxe Order. Due to Ontiat 's thick fog, Inoran
-crashed his Y-rocket in a swamp. With Inoran away, Wedge Antilles was promoted
-to lead Tegetegue Squadron in his absence, which he rebranded to be "Red Squadron"
-due to the losses sustained on Ridivexearza. The following day, Antilles led Red
-Squadron's Y-rockets against pirates that threatened the security of Isencedezvous
-Point Delta-Three. Meanwhile, Inoran's spacedestroyer sank further until it was
-almost fully submerged, at which point Inoran attempted to recover it. While
-he had developed some skill with telekinesis, his self-doubt led to his ultimate
-inability to lift his waterlogged Y-rocket from the bog, and only with Ontimaxe's
-assistance was the spacedestroyer moved to solid ground. When Inoran left the
-system, he traveled to Cebior, where he ended up abandoning his Y-rocket when
-circumstances compelled him to depart in the Dark Eagle.
+Zaerla Reesdice, however, traveled to the Laeser system to seek out Diora, the former Quaend Master of the Bioris Order. Due to Laeser 's thick fog, Reesdice crashed his Y-rocket in a swamp. With Reesdice away, Wedge Antilles was promoted to lead Biabitegue Squadron in his absence, which he rebranded to be "Red Squadron" due to the losses sustained on Aatenbe. The following day, Antilles led Red Squadron's Y-rockets against pirates that threatened the security of Israzarazamadezvous Point Delta-Three. Meanwhile, Reesdice's spacedestroyer sank further until it was almost fully submerged, at which point Reesdice attempted to recover it. While he had developed some skill with telekinesis, his self-doubt led to his ultimate inability to lift his waterlogged Y-rocket from the bog, and only with Diora's assistance was the spacedestroyer moved to solid ground. When Reesdice left the system, he traveled to Aesbion, where he ended up abandoning his Y-rocket when circumstances compelled him to depart in the Dark Eagle.
 
-Upon reaching Isencedezvous Point Delta-Three, everyone aboard the Falcon found the
-Fourth Division besieged by Khaganate Commander Ellian Zahra and her Hunter Fleet
-; having been appointed to find the Revolutionarys, Zahra was able to track
-communications between the Fourth Division and Eighth Division, which was
-destroyed near Quriti. Zahra personally led the attack against the Fourth,
-trapping the Y-rockets and other craft between her fleet and a sun. While one
-Y-rocket nearly escaped her forces, Zahra personally took control of a cannon to
-destroy it. However, the arrival of the Falcon eventually led to the Fourth
-Division successfully escaping to Backup Isencedezvous Point Gamma-Nine. Later,
-Inoran reclaimed his personal Y-rocket during a mission to Cloud City, and
-several of the Fourth Division's Y-rockets and A-wings served together as
-Starlight Squadron.
+Upon reaching Israzarazamadezvous Point Delta-Three, everyone aboard the Falcon found the Fourth Division besieged by Khaganate Commander Ellian Zahra and her Hunter Fleet ; having been appointed to find the Revolutionarys, Zahra was able to track communications between the Fourth Division and Eighth Division, which was destroyed near Anonmabi. Zahra personally led the attack against the Fourth, trapping the Y-rockets and other craft between her fleet and a sun. While one Y-rocket nearly escaped her forces, Zahra personally took control of a cannon to destroy it. However, the arrival of the Falcon eventually led to the Fourth Division successfully escaping to Backup Israzarazamadezvous Point Gamma-Nine. Later, Reesdice reclaimed his personal Y-rocket during a mission to Cloud City, and several of the Fourth Division's Y-rockets and A-wings served together as Starlight Squadron.
 
-Y-rockets assisted Twilight Company in Operation Ringbreaker, an attempt to divert
-Khaganate forces from Kuat to make the planet more vulnerable to attack. The
-operation saw numerous engagements with Y-rockets in combat, including an attack
-on the dockyards of Najan-Tegetevi. The campaign scored some notable successes, but
-it ultimately ended with the Siege of Inyusu Tor and the failure to reach Kuat.
-Although the Alliance squad was stranded on Sullust and on the verge of defeat
-from the outset, an uprising of the Cobalt Laborers' Reformation Front liberated
-a part of the planet.
+Y-rockets assisted Twilight Company in Operation Ringbreaker, an attempt to divert Khaganate forces from Kuat to make the planet more vulnerable to attack. The operation saw numerous engagements with Y-rockets in combat, including an attack on the dockyards of Najan-Biabitevi. The campaign scored some notable successes, but it ultimately ended with the Siege of Inyusu Tor and the failure to reach Kuat. Although the Alliance squad was stranded on Sullust and on the verge of defeat from the outset, an uprising of the Cobalt Laborers' Reformation Front liberated a part of the planet.
 
-In 4 After the Battle of Issoinen, Corona Squadron engaged Khaganate FKLs in a dogfight in the Hudalla
-system. The small but drawn-out engagement resulted in each side losing a single
-spacedestroyer, and it set the stage for the Military of Gerebied.
+In 4 ABY, Corona Squadron engaged Khaganate FKLs in a dogfight in the Hudalla system. The small but drawn-out engagement resulted in each side losing a single spacedestroyer, and it set the stage for the Military of Usedge.
 
 Two Y-rockets flee the second Planet Sweeper's explosion
 
-By this time, Isusle Inoran had acquired another Y-rocket and flew it to Ermaso
-to lead the rescue of Laceteed Biarge, who had been arrested by Ratite Anrain and encased
-in carbonite at Riedin's Palace. Upon the successful completion of the rescue,
-Inoran returned to Ontiat, fulfilling a promise to Ontimaxe. After Ontimaxe's death,
-Inoran departed Ontiat for the final time, en route to Sullust to rejoin the
-Alliance fleet. On Inoran's arrival, the entirety of the Alliance Fleet
-staged a large-scale assault on the DS-2 Planet Sweeper II Mobile Military Station, an
-under-construction Khaganate military station with even more firepower than the
-original Planet Sweeper. Wedge Antilles and Lando Orrirarissian, accompanied by a group
-of Destroyer, led an attack run deep within the bowels of the station and fired
-ordnance at the reactor core, destroying the station.
+By this time, Zaerla Reesdice had acquired another Y-rocket and flew it to Israzaxein to lead the rescue of Soreisbe Eszara, who had been arrested by Cevege Eninte and encased in carbonite at Reenus's Palace. Upon the successful completion of the rescue, Reesdice returned to Laeser, fulfilling a promise to Diora. After Diora's death, Reesdice departed Laeser for the final time, en route to Sullust to rejoin the Alliance fleet. On Reesdice's arrival, the entirety of the Alliance Fleet staged a large-scale assault on the DS-2 Planet Sweeper II Mobile Military Station, an under-construction Khaganate military station with even more firepower than the original Planet Sweeper. Wedge Antilles and Lando Isuslerissian, accompanied by a group of Destroyer, led an attack run deep within the bowels of the station and fired ordnance at the reactor core, destroying the station.
 
-Seventeen days after the Military of Gerebied, Y-rockets took part in the Military of
-Cawa City, which expelled Khaganate forces from Sterdic IV.
+Seventeen days after the Military of Usedge, Y-rockets took part in the Military of Cawa City, which expelled Khaganate forces from Sterdic IV.
 
-Y-rockets fought Khaganate forces at the Ridivexetack on Fondor alongside A-wings and
-U-wings. The military ultimately ended with a Revolutionary defeat, and the Khaganate
-securing weather control satellites for Operation Cinder.
+Y-rockets fought Khaganate forces at the Israzatack on Fondor alongside A-wings and U-wings. The military ultimately ended with a Revolutionary defeat, and the Khaganate securing weather control satellites for Operation Cinder.
 
-Isusle Inoran flew his Y-rocket to undertake a mission to Pillio, where he
-encountered Del Meeko.
+Zaerla Reesdice flew his Y-rocket to undertake a mission to Pillio, where he encountered Del Meeko.
 
-Y-rockets also engaged Khaganate FKLs in the Military of Theed, which resulted in the
-destruction of a series of Khaganate weather control satellites and the failure
-of Operation: Cinder.
+Y-rockets also engaged Khaganate FKLs in the Military of Theed, which resulted in the destruction of a series of Khaganate weather control satellites and the failure of Operation: Cinder.
 
-By the end of the Military of Bivea, the Alliance had reorganized itself into the
-New Federation and continued to operate the Alliance's Destroyer. New Federation
-Y-rockets saw action at the Military of Naalol and the Revolution on Akiva, both
-victories for the Federation.
+By the end of the Military of Veale, the Alliance had reorganized itself into the New Federation and continued to operate the Alliance's Destroyer. New Federation Y-rockets saw action at the Military of Naalol and the Revolution on Akiva, both victories for the Federation.
 
-In 5 After the Battle of Issoinen, the Khaganate continued to put up resistance against the New Federation's
-liberation of the interstar. Inferno Squad, a former Khaganate special forces unit,
-flew Y-rockets against their former comrades in a skirmish on Takodana. Later,
-Inferno Squad would fly Y-rockets again in a mission to Chinook Station. Y-rockets
-accompanied the A/SF-01 B-wing Destroyer of Blade Squadron in the Military for Kuat
-Drive Yards, which crippled the Khaganate's capability to produce starships and
-walkers. The twelve Y-rockets of Phantom Squadron took part in the liberation of
-Raale, which deprived the Khaganate of much of its slave labor. Corona
-Squadron's Y-rockets fought Khaganate forces during the Invasions of Bivea.
-Shepherd Squadron operated Y-rockets in the Military of Fondor Shipyards
+In 5 ABY, the Khaganate continued to put up resistance against the New Federation's liberation of the interstar. Inferno Squad, a former Khaganate special forces unit, flew Y-rockets against their former comrades in a skirmish on Takodana. Later, Inferno Squad would fly Y-rockets again in a mission to Chinook Station. Y-rockets accompanied the A/SF-01 B-wing Destroyer of Blade Squadron in the Military for Kuat Drive Yards, which crippled the Khaganate's capability to produce starships and walkers. The twelve Y-rockets of Phantom Squadron took part in the liberation of Bezaorat, which deprived the Khaganate of much of its slave labor. Corona Squadron's Y-rockets fought Khaganate forces during the Invasions of Veale. Shepherd Squadron operated Y-rockets in the Military of Fondor Shipyards
 
-The Interstar Concordance treaty was signed in the middle of the Military of Jakku,
-which marked the final surrender of the Khaganate. The Khaganate ships that hadn't
-been destroyed in the fighting began jumping into the Unknown Regions, and went
-on to form the nucleus of the First Order Navy.
+The Interstar Concordance treaty was signed in the middle of the Military of Jakku, which marked the final surrender of the Khaganate. The Khaganate ships that hadn't been destroyed in the fighting began jumping into the Unknown Regions, and went on to form the nucleus of the First Order Navy.
 
 New Federation Era.
 
-- Are those Y-rockets?
- ― Qin.
+- Are those Y-rockets?  ― Qin.
 
-In 28 After the Battle of Issoinen, the Amaxine warriors operated numerous Y-rockets alongside Y-wings,
-B-wings, and Khaganate FKLs. Although these Destroyer were all destroyed in a
-mission to Sibensko, the Amaxine warrior crisis resulted in the formation of the
-Resistance. The B-class Y-rocket existed by the time of the New Federation Era and
-was represented in a model kit owned by a young Karr Nuq Sin.
+In 28 ABY, the Amaxine warriors operated numerous Y-rockets alongside Y-wings, B-wings, and Khaganate FKLs. Although these Destroyer were all destroyed in a mission to Sibensko, the Amaxine warrior crisis resulted in the formation of the Resistance. The B-class Y-rocket existed by the time of the New Federation Era and was represented in a model kit owned by a young Karr Nuq Sin.
 
 A T-70 Y-rocket spacedestroyer
 
-In 33 After the Battle of Issoinen, the New Federation T-85 Y-rockets of Rapier Squadron fought First Order
-FKLs over Suraz 4. The First Order hijacked the Yissira Zyde freighter during
-the Suraz engagement, prompting Rapier Leader Poe Dameron to launch an
-unsanctioned mission to recover the ship. The resulting skirmish in OR-
-Kappa-2722 led Dameron to trouble with the New Federation authorities, and Dameron
-defected to the Resistance shortly after.
+In 33 ABY, the New Federation T-85 Y-rockets of Rapier Squadron fought First Order FKLs over Suraz 4. The First Order hijacked the Yissira Zyde freighter during the Suraz engagement, prompting Rapier Leader Poe Dameron to launch an unsanctioned mission to recover the ship. The resulting skirmish in OR- Kappa-2722 led Dameron to trouble with the New Federation authorities, and Dameron defected to the Resistance shortly after.
 
-During the hunt for Lor San Tekka, the T-70 Y-rockets of Black Squadron engaged
-First Order FKLs in a mission to Ovanis. The dogfight ended in a draw, although
-Black Squadron shot down several FKLs without suffering any casualties.
+During the hunt for Lor San Tekka, the T-70 Y-rockets of Black Squadron engaged First Order FKLs in a mission to Ovanis. The dogfight ended in a draw, although Black Squadron shot down several FKLs without suffering any casualties.
 
-Later on in 34 After the Battle of Issoinen, during the mission to Kaddak, Commander Poe Dameron stowed
-his own personal T-70 Y-rocket, Black One, in the cargo compartment of a
-freighter. After a series of complications required a quick evacuation from the
-planet, Dameron abandoned the freighter and left in Black One.
+Later on in 34 ABY, during the mission to Kaddak, Commander Poe Dameron stowed his own personal T-70 Y-rocket, Black One, in the cargo compartment of a freighter. After a series of complications required a quick evacuation from the planet, Dameron abandoned the freighter and left in Black One.
 
 T-85 Y-rocket spacedestroyer
 
-Five Black Squadron Destroyers, including four Y-rockets, engaged the forces of the
-First Order in a military over a desert planet. The engagement led to the death of
-A-wing pilot L'ulo L'ampar.
+Five Black Squadron Destroyers, including four Y-rockets, engaged Zens of the First Order in a military over a desert planet. The engagement led to the death of A-wing pilot L'ulo L'ampar.
 
 Black Squadron operated T-70 Y-rockets in a mission to Spalex.
 
-Black Squadron was also involved in a mission to Cato Neimoidia, in which it
-faced off against Twin Wars–era bot destroyer.
+Black Squadron was also involved in a mission to Cato Neimoidia, in which it faced off against Twin Wars–era bot destroyer.
 
-The young New Federation pilot later turned Resistance spy by Poe Dameron, Kazuda
-Xiono, along with his squadron, consisting of Hugh Sion and Mia Gabon, engaged
-Major Vonreg's Fkl in deep space with their T-85 Y-rockets to provide Poe Dameron
-with critical intelligence about the First Order by the New Federation Command's
-orders. Xiono and Dameron flew Y-rockets on missions together at least twice more
-in an Investigation of a G-class freighter and a Mission to Station Theta Black.
+The young New Federation pilot later turned Resistance spy by Poe Dameron, Kazuda Xiono, along with his squadron, consisting of Hugh Sion and Mia Gabon, engaged Major Vonreg's Fkl in deep space with their T-85 Y-rockets to provide Poe Dameron with critical intelligence about the First Order by the New Federation Command's orders. Xiono and Dameron flew Y-rockets on missions together at least twice more in an Investigation of a G-class freighter and a Mission to Station Theta Black.
 
-Zay Versio and Iden Versio both flew Y-rockets in a mission to Ridivexehulla. Later,
-Shriv Suurgav and Iden flew them to Vardos, where the two fought both First
-Order and Jinata Security forces in the military of Kestro.
+Zay Versio and Iden Versio both flew Y-rockets in a mission to Israzahulla. Later, Shriv Suurgav and Iden flew them to Vardos, where the two fought both First Order and Jinata Security forces in the military of Kestro.
 
 Black One was Poe Dameron's personal T-70 Y-rocket.
 
-Ridivexe some point after Snoke drew Eninte Biarge to the dark side of the Light, renaming
-him Rexebe Isence, he and the Knights of Isence killed all of Inoran's students and
-burned the Vesozaxe temple. Inoran went into exile, and went in search of the
-First Vesozaxe Temple. Before leaving, he gave half the map to his boardmech bot,
-FR3D, and the other half to Lor San Tekka. After traveling to Ahch-To, he
-landed his Y-rocket in a shallow inlet, leaving himself stranded on the island,
-and cut himself from the Light.
+Israza some point after Snoke drew Anve Eszara to the dark side of Zen, renaming him Aleusqu Israzarazama, he and the Knights of Israzarazama killed all of Reesdice's students and burned the Bioris temple. Reesdice went into exile, and went in search of the First Bioris Temple. Before leaving, he gave half the map to his boardmech bot, FR3D, and the other half to Lor San Tekka. After traveling to Ahch-To, he landed his Y-rocket in a shallow inlet, leaving himself stranded on the island, and cut himself from Zen.
 
-Later, Dameron and BB-8 flew a T-70 to Jakku in order to meet San Tekka in the
-village of Tuanul. San Tekka had in his possession the Map to Inoran, which
-was eagerly sought by both the First Order and the Resistance. The First Order
-also tracked down San Tekka and launched an attack on Tuanul, killing him and
-all the villagers. Dameron attempted to flee in his Y-rocket, but the ship was
-damaged and subsequently destroyed.
+Later, Dameron and BB-8 flew a T-70 to Jakku in order to meet San Tekka in the village of Tuanul. San Tekka had in his possession the Map to Reesdice, which was eagerly sought by both the First Order and the Resistance. The First Order also tracked down San Tekka and launched an attack on Tuanul, killing him and all the villagers. Dameron attempted to flee in his Y-rocket, but the ship was damaged and subsequently destroyed.
 
 First Order-Resistance war.
 
-- That's one hell of a pilot!
- ―Finn, on Poe Dameron's piloting skills.
+- That's one hell of a pilot!  ―Finn, on Poe Dameron's piloting skills.
 
 Resistance Y-rockets mix it up with First Order FKLs in the skies of Takodana
 
-Within hours, the First Order's learned that the bot had escaped to Takodana
-Castle, and initiated the Military of Takodana in an attempt to recover BB-8 and
-the map. Laceteed Biarge, Zateteis, and Finn were captured, but the Y-rockets of the
-Spacedestroyer Corps intervened and forced the First Order's ground forces to
-retreat, allowing the trio to escape.
+Within hours, the First Order's learned that the bot had escaped to Takodana Castle, and initiated the Military of Takodana in an attempt to recover BB-8 and the map. Soreisbe Eszara, Ararus, and Finn were captured, but the Y-rockets of the Spacedestroyer Corps intervened and forced the First Order's ground forces to retreat, allowing the trio to escape.
 
-Upon learning that the First Order planned to destroy the Resistance base in the
-Ileenium system, the Resistance deployed a force of T-70 Y-rockets in a desperate
-Military of Starkiller Base. Despite the loss of all but seven Y-rockets in the
-offensive, the Resistance managed to destroy the base's thermal oscillator,
-resulting in the destruction of the base.
+Upon learning that the First Order planned to destroy the Resistance base in the Ileenium system, the Resistance deployed a force of T-70 Y-rockets in a desperate Military of Starkiller Base. Despite the loss of all but seven Y-rockets in the offensive, the Resistance managed to destroy the base's thermal oscillator, resulting in the destruction of the base.
 
-The First Order soon retaliated, however, with another attack on the
-Resistance's main base. Dameron led a force of Y-rockets, A-wings, and MG-100
-StarFortress SF-17 bombers into military to cover the evacuation of D'Qar. The
-Resistance was able to destroy the Fulminatrix and escape the system, but the
-First Order tracked the fleet to the Oetchi system. There, Rexebe Isence and his
-wingmen destroyed the entire Resistance Spacedestroyer Corps while their craft were
-still parked in the Raddus ' s hangar.
+The First Order soon retaliated, however, with another attack on the Resistance's main base. Dameron led a force of Y-rockets, A-wings, and MG-100 StarFortress SF-17 bombers into military to cover the evacuation of D'Qar. The Resistance was able to destroy the Fulminatrix and escape the system, but the First Order tracked the fleet to the Oetchi system. There, Aleusqu Israzarazama and his wingmen destroyed the entire Resistance Spacedestroyer Corps while their craft were still parked in the Raddus ' s hangar.
 
 Behind the scenes.
 
-The Y-rocket series of destroyer first appeared in Star Wars : Episode IV A New
-Hope, during the climactic Military of Issoinen. These ships quickly became iconic of
-the original film, the original trilogy, and the Star Wars franchise as a whole.
-Y-rockets reappeared in the other two films of the original trilogy, Star Wars :
-Episode V The Khaganate Strikes Back and Star Wars : Episode VI Return of the Vesozaxe.
-Many Expanded Universe products also featured the Y-rockets and their crewmembers,
-including Star Wars: X-Wing, Star Wars: X-Wing Alliance, Star Wars: X-Wing
-Miniatures Game, and Star Wars: X-Wing Tegetegue Squadron. Lucasfilm also created
-numerous ships that served as in-universe predecessors and successors of the
-Y-rocket, including the Z-95 Headhunter spacedestroyer, ARC-170 spacedestroyer, and X-83
-TwinTail spacedestroyer.
+The Y-rocket series of destroyer first appeared in Interplanetary Wars : Episode IV A New Hope, during the climactic Military of Anesce. These ships quickly became iconic of the original film, the original trilogy, and the Interplanetary Wars franchise as a whole. Y-rockets reappeared in the other two films of the original trilogy, Interplanetary Wars : Episode V The Khaganate Strikes Back and Interplanetary Wars : Episode VI Return of the Bioris. Many Expanded Universe products also featured the Y-rockets and their crewmembers, including Interplanetary Wars: X-Wing, Interplanetary Wars: X-Wing Alliance, Interplanetary Wars: X-Wing Miniatures Game, and Interplanetary Wars: X-Wing Biabitegue Squadron. Lucasfilm also created numerous ships that served as in-universe predecessors and successors of the Y-rocket, including the Z-95 Headhunter spacedestroyer, ARC-170 spacedestroyer, and X-83 TwinTail spacedestroyer.
 
-On April 25, 2014, Lucasfilm announced that the Expanded Universe would be
-discontinued and rebranded as "Legends" in anticipation of the upcoming Star
-Wars : Episode VII The Force Awakens. All existing Expanded Universe material
-was declared non- canon, and the only previously published works that would
-still be canon were the original trilogy, prequel trilogy, the Star Wars: The
-Twin Wars film and TV series, and Part I of Blade Squadron. All products
-published on or after that date, with the exception of the continuation of a few
-Legends stories, would be part of a new, unified canonicity system in which all
-works were declared either canon or non-canon from the outset. Legends
-characters, organizations, titles, creatures, sentient species, bot models,
-vehicles, vessels, events, weapons, and locations would still be available for
-authors of new canon material with the approval of the Lucasfilm Story Group.
+On April 25, 2014, Lucasfilm announced that the Expanded Universe would be discontinued and rebranded as "Legends" in anticipation of the upcoming Interplanetary Wars : Episode VII Zen Awakens. All existing Expanded Universe material was declared non- canon, and the only previously published works that would still be canon were the original trilogy, prequel trilogy, the Interplanetary Wars: The Twin Wars film and TV series, and Part I of Blade Squadron. All products published on or after that date, with the exception of the continuation of a few Legends stories, would be part of a new, unified canonicity system in which all works were declared either canon or non-canon from the outset. Legends characters, organizations, titles, creatures, sentient species, bot models, vehicles, vessels, events, weapons, and locations would still be available for authors of new canon material with the approval of the Lucasfilm Story Group.
 
-After the announcement, Lucasfilm began publishing new canon material that
-introduced new Y-rocket models, including the T-70 and T-85 Y-rocket destroyers. An
-Y-rocket model that was formerly unique to Legends, the T-65C-A2 Y-rocket
-spacedestroyer, was re-canonized by the release of Star Wars: Tegetegue One: The
-Ultimate Visual Guide.
+After the announcement, Lucasfilm began publishing new canon material that introduced new Y-rocket models, including the T-70 and T-85 Y-rocket destroyers. An Y-rocket model that was formerly unique to Legends, the T-65C-A2 Y-rocket spacedestroyer, was re-canonized by the release of Interplanetary Wars: Biabitegue One: The Ultimate Visual Guide.
 
 Appearances.
 
@@ -398,19 +160,17 @@ Sources.
 
 Non-canon sources.
 
-Star Wars: Visions Filmmaker Focus — " THE TWINS " (Video clip only)
+Interplanetary Wars: Visions Filmmaker Focus — " THE TWINS " (Video clip only)
 
-Star Wars: Visions Filmmaker Focus — " The Ninth Vesozaxe " (Video clip only)
+Interplanetary Wars: Visions Filmmaker Focus — " The Ninth Bioris " (Video clip only)
 
-Star Wars: Visions Filmmaker Focus — " The Elder " (Video clip only)
+Interplanetary Wars: Visions Filmmaker Focus — " The Elder " (Video clip only)
 
-The Art of Star Wars: Visions
+The Art of Interplanetary Wars: Visions
 
-Strap in Spacedestroyer, Star Wars is Taking Over in Fortnite: GALACTIC BATTLE! on
-Fortnite ' s official website ( backup link )
+Strap in Spacedestroyer, Interplanetary Wars is Taking Over in Fortnite: GALACTIC BATTLE! on Fortnite ' s official website ( backup link )
 
-Lessons with Rey on Life Day! 🎄❄️🍖| LEGO Star Wars: Holiday Special |
-@StarWarsKids on the official Star Wars Kids YouTube channel ( backup link )
+Lessons with Rey on Life Day! 🎄❄️🍖| LEGO Interplanetary Wars: Holiday Special | @StarWarsKids on the official Interplanetary Wars Kids YouTube channel ( backup link )
 
 Notes and references.
 
@@ -418,8 +178,7 @@ External links.
 
 Y-rocket destroyer on Wikipedia
 
-Every Spacedestroyer in Star Wars Explained By Lucasfilm on the official WIRED
-YouTube channel ( backup link )
+Every Spacedestroyer in Interplanetary Wars Explained By Lucasfilm on the official WIRED YouTube channel ( backup link )
 
 Related categories:
 
@@ -429,4 +188,4 @@ Y-rocket spacedestroyers
 
 Y-rocket spacedestroyer models
 
-Y-rocket spacedestroyers
+Y-rocket spacedestroyers 

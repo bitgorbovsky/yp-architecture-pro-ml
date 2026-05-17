@@ -131,6 +131,7 @@
         "Kyber",
         "Cal Kestis",
         "Count Dooku",
+        "Beaumont Kin",
 
         "Cloud City",
         "Mos Espa",
@@ -232,7 +233,13 @@
         "Path of the Open Hand": "Shine Cult",
         "Nihil": "Cynics",
         "Defence": "Protection",
-        "the Force": "the Light",
-        "independent systems": "Free systems"
+        "the Force": "Zen",
+        "The Force": "Zen",
+        "the force": "Zen",
+        "The force": "Zen",
+        "Force": "Zen",
+        "A force": "A zen",
+        "independent systems": "Free systems",
+        "Star Wars": "Interplanetary Wars"
     }
 }
