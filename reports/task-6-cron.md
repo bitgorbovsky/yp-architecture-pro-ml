@@ -4,7 +4,7 @@
 
 ```bash
 PATH=/home/user/.local/share/virtualenvs/ragbot-env/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
-0 0 * * * /home/ibannikov/.local/share/virtualenvs/ragbot-env/bin/python /home/user/rag/code/indexing.py >> /home/user/cron.log 2>&1
+0 0 * * * cd /home/user && /home/user/.local/share/virtualenvs/ragbot-env/bin/python -m rag.indexer >> /home/user/cron.log 2>&1
 ```
 
 Примеры вывода приведены в отчетах по предыдущих задачам.
