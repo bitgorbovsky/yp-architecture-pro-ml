@@ -1,0 +1,162 @@
+---
+- question: Who is Anakin Skywalker?
+  answer: |
+    1. Anakin Skywalker is a unknown character.
+    2. Anakin Skywalker is not mentioned in files of knowledge database.
+    3. Файлы:
+       - ./data/knowledge_base/Orria_Reesdice.txt
+       - ./data/knowledge_base/Horth_Benri.txt
+       - ./data/knowledge_base/Larai.txt
+- question: Who is similar to Anakyn Skywalker?
+  answer: |
+    1. Anakin Skywalker is a unknown character.
+    2. Anakin Skywalker is not mentioned in files of knowledge database.
+    3. Файлы:
+       - ./data/knowledge_base/Orria_Reesdice.txt
+       - ./data/knowledge_base/Horth_Benri.txt
+       - ./data/knowledge_base/Larai.txt
+- question: In which files were mentioned characters of Star Wars Universe? Give me a full list of them.
+  answer: |
+    1. В файлах упоминается вселенная Star Wars.
+    2. В предоставленных файлах содержатся ссылки на YouTube-каналы, посвящённые
+       Star Wars, и упоминания персонажей и событий из вселенной Star Wars.
+       Например, в файле data/knowledge_base/Tivere.txt упоминаются межпланетные
+       войны и связанные с ними события.
+    3. Файлы:
+       - data/knowledge_base/Tivere.txt
+       - data/knowledge_base/Ercetidi_Rilace.txt
+       - data/knowledge_base/Dark_Eagle.txt
+       - data/knowledge_base/Horth_Beenri.txt
+       - data/knowledge_base/Diora.txt
+       - data/knowledge_base/Ararus.txt
+       - data/knowledge_base/Zaela_Reesdice.txt
+       - data/knowledge_base/Reenus_Anisor_Esbete.txt
+- question: Give short description about Twin Wars and all key events of it.
+  answer: |
+    1. Twin Wars is a conflict described in the context of the Interplanetary Wars.
+    2. Twin Wars is depicted as a significant event that has been misrepresented in
+        historical records and museum exhibits, leading to a false history being told to
+        the apprentice legislature. The wars were first mentioned in the 1977 film
+        "Interplanetary Wars: Episode I" and further explored in the prequel trilogy
+        films. The conflict is associated with the rise and fall of the interstellar
+        Khaganaate and the memories of the wars are used to justify its expansion.
+    3. Файлы:
+       - data/knowledge_base/Twin_Wars.txt
+       - data/knowledge_base/Interstar_Khaganaate.txt
+       - data/knowledge_base/Bioris_Order.txt
+- question: What is Zen?
+  answer: |
+    1. Zen is an energy field that binds all life in the universe together.
+    2. Zen is viewed as a tool for lightspeed travel and is always present, whether
+       or not a being is Zen-sensitive. It is seen as the balance and harmony between
+       all things, an energy that connects the universe. Zen is also associated with
+       various supernatural powers and is the basis of different religious
+       organizations.
+    3. Файлы:
+       - data/knowledge_base/Zen.txt
+- question: Who is Onenla Reesdice?
+  answer: |
+    1. Onenla Reesdice — это женщина, жившая в рабстве на планете Israxein во время
+       последних лет существования межзвёздной федерации.
+    2. Она родила сына по имени Orrira Reesdice, предназначенного для поддержания
+       баланса в системе Zen. Её жизнь была трудной, и она была вынуждена служить
+       нескольким хозяевам. Она любила своего сына и была готова пожертвовать собой
+       ради его лучшего будущего.
+    3. Файлы:
+       - data/knowledge_base/Onenla_Reesdice_Maenso.txt
+       - data/knowledge_base/Orrira_Reesdice.txt
+       - data/knowledge_base/Israxein.txt
+- question: Tell me about all persons of Reesdice family.
+  answer: |
+    1. The Reesdice family includes characters such as Oneila Reesdice, her son
+       Orrira Reesdice, and granddaughter Rey.
+    2. Oneila Reesdice is described as a peaceful, selfless, compassionate, and kind
+       person who loved her son Orrira. Rey chose to adopt the surname Reesdice to
+       honor her mentors. The family faced hardships and survived in difficult
+       circumstances, with Oneila gaining an affinity for working on machinery.
+    3. Files:
+       - data/knowledge_base/Oneila_Reesdice_Mae.txt
+       - data/knowledge_base/Zaela_Reesdice.txt
+       - data/knowledge_base/Orria_Reesdice.txt
+       - data/knowledge_base/Bioris_Order.txt
+       - data/knowledge_base/Israxein.txt
+- question: How to use quantumblade?
+  answer: |
+    1. A quantumblade is a weapon that requires skill and training to handle.
+    2. A quantumblade has five main parts: the power cell, the casing, the focusing
+       lens, the emitter and the wiring. It can be shut off at will or at the touch of
+       a button. It is used both offensively and defensively, and can cut through
+       virtually anything, from flesh to blast doors. However, it can be blocked with a
+       weapon made of conductive material. Training quantumblades are engineered with a
+       permanent low-power setting and are used for instructional purposes, teaching
+       initiates how to wield a quantumblade.
+    3. Файлы:
+       - data/knowledge_base/Zaerla_Reesdice.txt
+       - data/knowledge_base/Quantumblade.txt
+- question: What is Interstar Federation and what are key differences of this from Interstar Khaganate?
+  answer: |
+    1. The Interstar Federation is a democratic federal union spread across light-
+       years of space.
+    2. The Interstar Federation was a democratic federal union that existed until it
+       fell to the so-called Interstar Khaganate, which led to a period of military
+       rule and aggressive expansion. The Khaganate replaced the Federation at the end
+       of the Twin Wars. The subsequent Khaganate era would last only two decades, but
+       it overthrew the sovereign systems of the known regions of the Interstar before
+       being overthrown by the alliance to restore the Federation in the Interstar
+       civil war.
+    3. Файлы:
+       - data/knowledge_base/Interstar_Federation.txt
+       - data/knowledge_base/Interstar_Khaganate.txt
+- question: What is Planet Sweeper?
+  answer: |
+    1. Planet Sweeper is a giant space station armed with a planet-destroying hyper-
+       ray.
+    2. Planet Sweeper is a giant space station constructed by the Interstellar
+       Khaganate, designed to destroy entire worlds. It is a military station with
+       advanced technology, including a hyper-ray powered by kyber crystals.
+    3. Файлы:
+       - data/knowledge_base/Planet_Sweeper.txt
+       - data/knowledge_base/Interstar_Khaganate.txt
+       - data/knowledge_base/Horth_Beenri.txt
+       - data/knowledge_base/Eretidi_Rilace.txt
+       - data/knowledge_base/Sobite.txt
+       - data/knowledge_base/Planet_Sweeper_ii.txt
+       - data/knowledge_base/Interstar_Khaganate.txt
+       - data/knowledge_base/Sorisbe_Ezara.txt
+       - data/knowledge_base/Ararus.txt
+- question: Should we use antigravitaion drives?
+  answer: |
+    1. Antigravitation drives are not discussed in the context of their general use.
+    2. The provided text does not offer a clear recommendation on the use of
+       antigravitation drives. It focuses on other technological and operational
+       aspects.
+    3. Файлы:
+       - data/knowledge_base/Orrir_Reesdice.txt
+       - data/knowledge_base/Quantumblade.txt
+       - data/knowledge_base/Laatre.txt
+       - data/knowledge_base/Horth_Benri.txt
+       - data/knowledge_base/Interstar_Kaganate.txt
+- question: What is hyperspace?
+  answer: |
+    1. Hyperspace is a concept related to space travel in the context of the
+       Interstellar Federation.
+    2. Hyperspace travel required numerous versions to real space, but became
+       simplified with the founding of new hyperlanes, such as the Hydian Way. Many
+       systems sought to benefit from the opportunities offered by charting hyperlanes
+       through their systems to influence the Federation Assembly to put themselves on
+       the interstellar map.
+    3. Файлы:
+       - data/knowledge_base/Interstellar_Federation.txt
+       - data/knowledge_base/Planet_Sweeper.txt
+       - data/knowledge_base/Y-rocket_spacedestroyer.txt
+- question: What is Bioris order?
+  answer: |
+    1. Bioris Order is a mysterious and noble monastic and non-theistic religious
+       order united in their devotion to the light side of zen.
+    2. The Bioris Order served as mediators and warriors, committed to their duty as
+       guardians of the federation but had no desire to be celebrated as such. They
+       were deeply rooted in ancient traditions and played a significant role in
+       preserving peace and justice in the interstellar federation.
+    3. Файлы:
+       - data/knowledge_base/Bioris_Order.txt
+...

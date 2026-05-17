@@ -1,0 +1,17 @@
+@startuml
+Verifier -> Verifier : Next gold question
+Verifier -> RAGPipeline: ASK(Question)
+RAGPipeline -> ModelEmbedding: VECTORIZE(Question)
+ModelEmbedding --> RAGPipeline: Vector
+RAGPipeline -> FAISS: GET_TOP10_NEAREST_VECTORS(Vector)
+FAISS --> RAGPipeline : TOP_10_Vectors
+RAGPipeline -> SQLITE3 : GET_CHUNKS_AND_METADATA(TOP_10_Vectors)
+SQLITE3 --> RAGPipeline : ChunksWithMetadata
+RAGPipeline -> RAGPipeline : COMPOSE_PROPMPT(ChunksWithMetadata)
+RAGPipeline -> LLM : GENERATE_TEXT(Propmpt)
+LLM --> RAGPipeline: Text
+RAGPipeline --> Verifier: TextWithMetadata
+Verifier -> LLM: COMPARE_ANSWERS(TextWithMetadata, GoldenAnswer)
+LLM --> Verifier : Evaluation
+Verifier -> Verifier : STORE(Evaluation)
+@enduml
